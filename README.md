@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 
 ##
 
+<div align="center">
+  <a href="https://github.com/isabeladearo">
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=isabeladearo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabeladearo&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+##
+
 <h5 align="center">Some technologies that I've already had contact with</h5>
 <div align="center"> 
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="isa-git" height="40" width="40"></a>
@@ -32,14 +40,6 @@ Here are some ideas to get you started:
   <a href="https://mochajs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="isa-mocha" height="40" width="40"></a>
   <a href="https://sequelize.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="isa-sequelize" height="40" width="40"></a>
 </div>
-
-##
-
-<div align="center">
-  <a href="https://github.com/isabeladearo">
-  <img height="180em" width="46%" src="https://github-readme-stats.vercel.app/api?username=isabeladearo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  <img height="180em" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabeladearo&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
   
 ##
 
@@ -47,6 +47,16 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://www.linkedin.com/in/isabeladearo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:euisabeladearo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  ##
+  
+  ![Snake animation](https://github.com/isabeladearo/isabeladearo/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+##
+
+
+  
+
 
 
