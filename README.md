@@ -31,18 +31,14 @@ Here are some ideas to get you started:
   <a href="https://nodejs.org/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="isa-nodejs" height="40" width="40"></a>
   <a href="https://mochajs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="isa-mocha" height="40" width="40"></a>
   <a href="https://sequelize.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="isa-sequelize" height="40" width="40"></a>
-  
- ##
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
 </div>
+
+##
+
+<h5 align="center">If you wish, please feel free to contact me on the following channels</h5>
+<div align="center">
+  <a href="https://www.linkedin.com/in/isabeladearo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:euisabeladearo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+
