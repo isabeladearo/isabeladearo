@@ -1,31 +1,17 @@
-### Hi there 👋
-
-<!--
-**isabeladearo/isabeladearo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Olá 👋🏻, sou a Isabela de Aro!!</h4>
+<p align="center">🙋🏻‍♀️ Estudante de desenvolvimento web na <a href="https://www.betrybe.com/" rel="nofollow">Trybe</a> e, atualmente, trabalho lá mesmo como<br>Summer de Instrução, auxiliando outros estudantes que estão na mesma jornada que eu. 💚 </p>
 
 ##
 
 <div align="center">
   <a href="https://github.com/isabeladearo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabeladearo&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabeladearo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=isabeladearo&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabeladearo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ##
 
-<h5 align="center">Some technologies that I've already had contact with</h5>
+<h5 align="center">Algumas das tecnologias que já tive contato</h5>
 <div align="center"> 
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="isa-git" height="40" width="40"></a>
   <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="isa-html" height="40" width="40"></a>
@@ -43,7 +29,7 @@ Here are some ideas to get you started:
   
 ##
 
-<h5 align="center">If you wish, please feel free to contact me on the following channels</h5>
+<h5 align="center">Se você desejar, fique à vontade para me contatar</h5>
 <div align="center">
   <a href="https://www.linkedin.com/in/isabeladearo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:euisabeladearo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
